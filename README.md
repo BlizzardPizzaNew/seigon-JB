@@ -1,7 +1,7 @@
 # seigon-JB
 ROOTLESS JB
 
-Saigon Jailbreak for iOS 10.2.1 supports the following devices:
+Seigon Jailbreak for iOS 10.2.1 supports the following devices:
 
 iPhone 6s
 iPhone 6s Plus
